@@ -20,6 +20,6 @@
     "pg": "^7.12.1"
   },
   "devDependencies": {
-    "bcrypt": "^3.0.6"
+    "bcrypt": "^5.0.0"
   }
 }
